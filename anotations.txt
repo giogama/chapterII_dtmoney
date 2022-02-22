@@ -1,0 +1,9 @@
+-- Dependencies
+
+01. yarn add styled-components 
+02. yarn add @types/styled-components -D 
+
+03. yarn add miragejs
+04. yarn add axios
+05. yarn add react-modal 
+06. yarn add polished 
