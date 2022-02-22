@@ -1,5 +1,4 @@
-# chapterII_dtmoney
-+ Simple Finance System
+# Simple Finance System
 
 This project has the follwing technologies/dependences:
 
